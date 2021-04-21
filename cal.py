@@ -6,7 +6,9 @@ b = int(input('Enter value of b: '))
 #Addition
 
 #Subtraction
-
+    def Subtract():
+    result = num1 - num2
+    print (Subtract) 
 #Multiplication
 
 #Division
@@ -23,7 +25,7 @@ if choice == 'a':
     print("add")
 
 elif choice == 'b':
-    print("subtract")
+    Subtract()
 
 elif choice == 'c':
     print("multiply")
