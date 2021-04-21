@@ -1,0 +1,4 @@
+Addition = demvi
+subtraction = christian
+multiply = raid
+division = patrick
