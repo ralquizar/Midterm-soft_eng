@@ -4,6 +4,9 @@ a = int(input('Enter value of a: '))
 b = int(input('Enter value of b: '))
 
 #Addition
+def Addition():
+    sum= a + b
+    print (sum)
 
 #Subtraction
 
@@ -20,7 +23,7 @@ print("d. Division")
 choice = input("Enter choice: ")
 
 if choice == 'a':
-    print("add")
+    Addition()
 
 elif choice == 'b':
     print("subtract")
