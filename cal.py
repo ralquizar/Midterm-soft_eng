@@ -7,6 +7,7 @@ b = int(input('Enter value of b: '))
 
 #Subtraction
 
+#Multiplication
 def multiply():
     result = int
     result = a*b
