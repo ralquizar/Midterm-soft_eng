@@ -7,7 +7,10 @@ b = int(input('Enter value of b: '))
 
 #Subtraction
 
-#Multiplication
+def multiply():
+    result = int
+    result = a*b
+    print(result)
 
 #Division
 
@@ -20,16 +23,16 @@ print("d. Division")
 choice = input("Enter choice: ")
 
 if choice == 'a':
+    print("add")
     
-
 elif choice == 'b':
-
+    print("subtract")
 
 elif choice == 'c':
-    
+    multiply()
 
 elif choice == 'd':
-    
-	
+    print("divide")
+
 else:
     print("Invalid choice")
