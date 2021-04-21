@@ -20,16 +20,16 @@ print("d. Division")
 choice = input("Enter choice: ")
 
 if choice == 'a':
-    
+    print("add")
 
 elif choice == 'b':
-
+    print("subtract")
 
 elif choice == 'c':
-    
+    print("multiply")
 
 elif choice == 'd':
-    
+    print("divide")
 	
 else:
     print("Invalid choice")
