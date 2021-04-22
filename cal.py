@@ -9,7 +9,9 @@ def Addition():
     print (sum)
 
 #Subtraction
-
+    def Subtract():
+    result = num1 - num2
+    print (Subtract) 
 #Multiplication
 
 #Division
@@ -26,7 +28,7 @@ if choice == 'a':
     Addition()
 
 elif choice == 'b':
-    print("subtract")
+    Subtract()
 
 elif choice == 'c':
     print("multiply")
