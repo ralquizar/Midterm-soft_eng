@@ -29,23 +29,10 @@ print("d. Division")
 choice = input("Enter choice: ")
 
 if choice == 'a':
-<<<<<<< HEAD
     Addition()
 
 elif choice == 'b':
     Subtract()
-
-elif choice == 'c':
-    print("multiply")
-
-elif choice == 'd':
-    print("divide")
-	
-=======
-    print("add")
-    
-elif choice == 'b':
-    print("subtract")
 
 elif choice == 'c':
     multiply()
@@ -53,7 +40,6 @@ elif choice == 'c':
 elif choice == 'd':
     print("divide")
 
->>>>>>> multiplication
 else:
     print("Invalid choice")
 
